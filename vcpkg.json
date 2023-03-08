@@ -1,0 +1,9 @@
+{
+  "name": "d2bs",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "detours",
+    "gtest",
+    "spdlog"
+  ]
+}
