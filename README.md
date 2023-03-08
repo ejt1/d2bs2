@@ -1,4 +1,12 @@
-#
+# Compiling
+
+## Requirements
+
+- CMake 3.24+
+- Python 3.9+ (accessed via `py` command)
+- Python 2.7 (located at `C:/Python27/Python.exe`)
+
+Open directory in Visual Studio 2022, configure and compile
 
 # Directory structure
 
