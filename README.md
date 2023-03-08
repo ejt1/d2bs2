@@ -30,4 +30,6 @@ The scripting runtime
 
 ## utils/
 
-Anything that doesn't fix inside any other directory, mostly small utility classes and functions that is used cross the entire framework
+Anything that doesn't fit inside any other directory, mostly small utility classes and functions that is used cross the entire framework
+
+Must be completely stand-alone without dependencies!
